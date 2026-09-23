@@ -22,6 +22,16 @@ public class Codigo_12 {
 
         }
 
+        Integer numero = 1;
+
+        do {
+            System.out.println(numero);
+            numero ++;
+        } while (numero != 10);
+
+
+
+
     }
 
 
